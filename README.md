@@ -1,2 +1,2 @@
-# -atomychan.github.io
+# atomychan.github.io
 My personal homepage
