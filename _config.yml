@@ -9,7 +9,7 @@ footer_text: >
   Kavli Institute of Astronomy and Astrophysics, Peking University, 5 Yiheyuan Rd., Haidian Dist., Beijing 100871, China
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url:  kiaa.pku.edu.cn/~chenp/ # the base hostname & protocol for your site
+url:  atomychan.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: July 2019 # leave blank if you don't want to display last updated
 
