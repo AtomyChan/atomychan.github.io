@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Dr. </strong> Ping Chen
+title: <strong>Ping Chen </strong> 陈平
 description:  Everything under heaven is in utter chaos; the situation is excellent.  — Chairman Mao
 
 profile:
